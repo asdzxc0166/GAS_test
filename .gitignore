@@ -1,5 +1,19 @@
 # Visual Studio 2015 user specific files
 .vs/
+DerivedDataCache
+Intermediate
+Saved
+Content
+Build
+**/Assets
+**/BlackAlder
+**/Landscape
+**/StartContent
+**/Megascans
+
+.vscode
+.vs
+
 
 # Compiled Object files
 *.slo
